@@ -1,0 +1,31 @@
+|*Nama|NIM|Kelas|Matkul*|
+|----|---|-----|------|
+|Bayu yusuf s|312310689|TI.23.A4|Pemograman Web 1|
+
+1.php dasar
+##"C:\Users\Lenovo\OneDrive\Pictures\Screenshots\prak6.1.png"
+2.Variable php
+##"C:\Users\Lenovo\OneDrive\Pictures\Screenshots\prak6.2.png"
+3.peredifine variable
+##"C:\Users\Lenovo\OneDrive\Pictures\Screenshots\prak6.3.png"
+4.membuat form input
+##"C:\Users\Lenovo\OneDrive\Pictures\Screenshots\prak6.4.png"
+5.operator
+##"C:\Users\Lenovo\OneDrive\Pictures\Screenshots\Screenshot 2024-11-19 225949.png"
+6.kondisi if
+##"C:\Users\Lenovo\OneDrive\Pictures\Screenshots\Screenshot 2024-11-19 230022.png"
+7.kondisi switch
+##"C:\Users\Lenovo\OneDrive\Pictures\Screenshots\Screenshot 2024-11-19 230056.png"
+8.perulangan for
+##"C:\Users\Lenovo\OneDrive\Pictures\Screenshots\Screenshot 2024-11-19 230126.png"
+9.perulangan while
+##"C:\Users\Lenovo\OneDrive\Pictures\Screenshots\Screenshot 2024-11-19 230148.png"
+
+pertanyaan dan tugas
+
+Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan
+    nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung
+    umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang
+    berbeda-beda sesuai pilihan pekerjaan.
+    ##"C:\Users\Lenovo\OneDrive\Pictures\Screenshots\Screenshot 2024-11-19 232451.png"
+    ##"C:\Users\Lenovo\OneDrive\Pictures\Screenshots\Screenshot 2024-11-19 232532.png"
